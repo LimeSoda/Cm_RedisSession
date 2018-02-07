@@ -9,6 +9,9 @@
             "name":"Colin Mollenhour"
         }
     ],
+    "require": {
+      "colinmollenhour/credis": "1.5"
+    },
     "suggest":{
         "magento-hackathon/magento-composer-installer":"*"
     }
