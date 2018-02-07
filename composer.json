@@ -11,7 +11,7 @@
     ],
     "require": {
       "colinmollenhour/php-redis-session-abstract": "~1.3.5",
-      "colinmollenhour/credis": "^1.9.1"
+      "colinmollenhour/credis": "1.5"
     },
     "suggest":{
         "magento-hackathon/magento-composer-installer":"*"
